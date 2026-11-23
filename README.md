@@ -1,5 +1,11 @@
 <div align="center">
 
+![Banner profesional — desarrollo, observabilidad e IA](./banner.png)
+
+</div>
+
+<div align="center">
+
 # 👋 Hola, soy Juan Diego Sánchez
 
 ### Software Engineer · Full Stack Developer · Observability & Cloud Monitoring
@@ -36,10 +42,30 @@ También tengo experiencia en **observabilidad y monitoreo cloud**, análisis de
 ![SQL Server](https://img.shields.io/badge/SQL_Server-20232A?style=flat-square&logo=microsoftsqlserver)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-20232A?style=flat-square&logo=microsoftazure)
 ![Git](https://img.shields.io/badge/Git-20232A?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-20232A?style=flat-square&logo=github)
 ![Linux](https://img.shields.io/badge/Linux-20232A?style=flat-square&logo=linux)
 ![Grafana](https://img.shields.io/badge/Grafana-20232A?style=flat-square&logo=grafana)
 
 **Observabilidad e integración:** New Relic · NRQL · APM · Mirth Connect · HL7 · SOAP · REST · XML · JSON
+
+**Herramientas de IA para ingeniería de software**
+
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-20232A?style=flat-square&logo=githubcopilot)
+![Claude](https://img.shields.io/badge/Claude-20232A?style=flat-square&logo=anthropic)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-20232A?style=flat-square&logo=openai)
+
+## 🤖 IA aplicada al ciclo de desarrollo
+
+Integro herramientas de **inteligencia artificial como apoyo a la ingeniería de software**, combinando automatización con revisión técnica y validación humana.
+
+- **GitHub Copilot:** asistencia contextual en la escritura de código, sugerencias y pruebas.
+- **Claude:** análisis de requisitos, exploración de alternativas de diseño y documentación técnica.
+- **OpenAI Codex:** apoyo en implementación, refactorización, depuración y generación de pruebas.
+- **Git y GitHub:** control de versiones, ramas, pull requests y revisión de cambios asistida por IA.
+- **Buenas prácticas:** validación de resultados, revisión de seguridad, pruebas y protección de credenciales y datos sensibles antes de compartir contexto con herramientas de IA.
+
+> La IA acelera el trabajo; las decisiones de arquitectura, seguridad y calidad se validan con criterios de ingeniería.
+
 
 ## 🚀 Servicios
 
@@ -49,6 +75,7 @@ También tengo experiencia en **observabilidad y monitoreo cloud**, análisis de
 | 📊 **Observabilidad** | Instrumentación, dashboards, métricas, logs, trazas y alertas con New Relic. |
 | ☁️ **Cloud Monitoring** | Seguimiento de disponibilidad, rendimiento e incidentes en servicios Azure. |
 | 🔗 **Interoperabilidad** | Integraciones HL7, SOAP y REST con motores como Mirth Connect. |
+| 🤖 **Desarrollo asistido por IA** | Apoyo con Copilot, Claude y Codex para documentación, pruebas, refactorización y productividad. |
 | 🛠️ **Soporte L3** | Diagnóstico técnico, análisis de causa raíz y soporte de servicios críticos 7x24. |
 
 ## 📂 Proyectos destacados
@@ -67,11 +94,12 @@ También tengo experiencia en **observabilidad y monitoreo cloud**, análisis de
 🔗 **Sitio del proyecto:** https://mabsbygabs.com
 
 ### 📡 Observabilidad e integraciones
-Monitoreo de servicios y flujos de interoperabilidad, análisis de logs, trazas y alertas con **New Relic, NRQL, Mirth Connect, SendGrid**.
+Monitoreo de servicios y flujos de interoperabilidad, análisis de logs, trazas y alertas con **New Relic, NRQL y Mirth Connect**.
 
 ### ✉️ Telemetría de correo transaccional
 Solución de seguimiento de eventos de entrega y rechazo de correos con **SendGrid**, backend de telemetría y dashboards operativos.
-.
+
+> **Nota:** Agrega enlaces únicamente a repositorios públicos o demostraciones que tengas autorización para compartir.
 
 ## 🤝 Trabajemos juntos
 
@@ -85,3 +113,4 @@ Solución de seguimiento de eventos de entrega y rechazo de correos con **SendGr
 *Soluciones escalables, seguras y observables.*
 
 </div>
+
