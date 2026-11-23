@@ -71,8 +71,7 @@ Monitoreo de servicios y flujos de interoperabilidad, análisis de logs, trazas 
 
 ### ✉️ Telemetría de correo transaccional
 Solución de seguimiento de eventos de entrega y rechazo de correos con **SendGrid**, backend de telemetría y dashboards operativos.
-
-> **Nota:** Agrega enlaces únicamente a repositorios públicos o demostraciones que tengas autorización para compartir.
+.
 
 ## 🤝 Trabajemos juntos
 
