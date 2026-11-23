@@ -67,7 +67,7 @@ También tengo experiencia en **observabilidad y monitoreo cloud**, análisis de
 🔗 **Sitio del proyecto:** https://mabsbygabs.com
 
 ### 📡 Observabilidad e integraciones
-Monitoreo de servicios y flujos de interoperabilidad, análisis de logs, trazas y alertas con **New Relic, NRQL y Mirth Connect**.
+Monitoreo de servicios y flujos de interoperabilidad, análisis de logs, trazas y alertas con **New Relic, NRQL**.
 
 ### ✉️ Telemetría de correo transaccional
 Solución de seguimiento de eventos de entrega y rechazo de correos con **SendGrid**, backend de telemetría y dashboards operativos.
